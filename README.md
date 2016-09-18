@@ -1,4 +1,4 @@
-# Workshop 2
+# Workshop-2
 
 I wonder if atom can handle unicode characters.
 ね、アトム、この字はどう？
