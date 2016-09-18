@@ -1,4 +1,3 @@
-
 # Workshop 2: Git
 
 I wonder if atom can handle unicode characters.
